@@ -3,7 +3,7 @@
     "children": [
       // "condition-layout.product",
       // "condition-layout.product#cond1",
-      "breadcrumb",
+      //"breadcrumb",
       //"flex-layout.row#main",
       "flex-layout.row#product-breadcrumb",
       "flex-layout.row#product-main"
@@ -87,6 +87,7 @@
       "product-name",
       "product-price#product-details",
       "sku-selector",
+      "countdown",
       "flex-layout.row#buy-button",
       "shipping-simulator",
       "share#default"
